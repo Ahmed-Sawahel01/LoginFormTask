@@ -148,8 +148,8 @@ public class LoginFormTask extends Frame {
 
     private void loadUsers() {
         users.add(new User("ahmed", "1234", "Student"));
-        users.add(new User("sara", "abcd", "TA"));
-        users.add(new User("drmohamed", "pass123", "Professor"));
+        users.add(new User("mahmoud", "mass", "TA"));
+        users.add(new User("drakram", "pass123", "Professor"));
     }
 
     private User findUser(String name) {
