@@ -15,8 +15,8 @@ A simple login form built with Java AWT.
 | Username | Password | Role |
 |----------|----------|------|
 | ahmed | 1234 | Student |
-| sara | abcd | TA |
-| drmohamed | pass123 | Professor |
+| mahmoud | mass | TA |
+| drakram | pass123 | Professor |
 
 ## How to Run
 1. Open the project in IntelliJ IDEA (JDK 17 or newer)
